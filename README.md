@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
