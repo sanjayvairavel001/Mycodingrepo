@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanjayvairavel001/Mycodingrepo/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
